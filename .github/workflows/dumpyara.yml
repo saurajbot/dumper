@@ -27,9 +27,7 @@ jobs:
          run: |
               sudo bash setup.sh
               git config --global user.name "mirrordump"
-              git config --global user.email "mirrordump@mymail.infos.st
-
-"
+              git config --global user.email "mirrordump@mymail.infos.st"
 
        - name: Setup config envs
          working-directory: firmware_dumper
