@@ -43,4 +43,4 @@ jobs:
               ./dump.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.RCOCNXM/ginkgo_images_V12.0.3.0.RCOCNXM_20210524.0000.00_11.0_cn_eda1fc3541.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.RJOCNXM/miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip
