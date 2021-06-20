@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/X5511-H3716B-M-IN-190426V160-Repairmymobile.in.zip
+  ROM_URL: http://otafsg1.realmemobile.com/patch/amazone2/GLO/RMX1831EX/RMX1831EX_11.C.20_0200_202007222131/RMX1831EX_11_OTA_0200_all_QrdLEyEpDpi6_8b0ef6b02d6f675.ozip
