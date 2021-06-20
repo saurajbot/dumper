@@ -6,7 +6,7 @@ on:
       - '*.md'
     branches: [ main ]
 
-defau#lts:
+defaults:
   run:
     shell: bash
 
