@@ -43,4 +43,4 @@ jobs:
               ./dump.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.8.0.QJOMIXM/merlin_global_images_V12.0.8.0.QJOMIXM_20210517.0000.00_10.0_global_8e863643dc.tgz
+  ROM_URL: https://cloud.minati.workers.dev/X5511-H3716B-M-IN-190426V160-Repairmymobile.in.zip
