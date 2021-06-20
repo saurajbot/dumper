@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJCCNXM/miui_LANCELOT_V12.0.1.0.RJCCNXM_802db7e020_11.0.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/X5511-H3716B-M-IN-190426V160-Repairmymobile.in.zip
