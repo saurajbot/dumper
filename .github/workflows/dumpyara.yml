@@ -10,9 +10,6 @@ defaults:
   run:
     shell: bash
 
-env:
-  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/Samfw.com_SM-A207M_ZTO_A207MUBU2BUC9_fac.zip
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -44,3 +41,6 @@ jobs:
          working-directory: firmware_dumper
          run: |
               ./dump.sh "$ROM_URL"
+
+env:
+  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/Samfw.com_SM-A207M_ZTO_A207MUBU2BUC9_fac.zip
