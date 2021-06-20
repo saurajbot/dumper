@@ -43,4 +43,4 @@ jobs:
               ./dump.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/Samfw.com_SM-A207M_ZTO_A207MUBU2BUC9_fac.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJOMIXM/miui_MERLINGlobal_V12.0.1.0.RJOMIXM_9bf35d329b_11.0.zip
