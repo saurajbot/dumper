@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PEIMIXM/whyred_global_images_V12.0.2.0.PEIMIXM_20201224.0000.00_9.0_global_561698251e.tgz
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1690_all_4cslVAT4nnIJ.ozip
