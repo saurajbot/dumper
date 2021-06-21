@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.RJWINXM/curtana_in_global_images_V12.0.5.0.RJWINXM_20210607.0000.00_11.0_in_839b523469.tgz
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2120_all_4q5L63MjpxAp.ozip
