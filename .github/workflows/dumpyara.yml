@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RKFEUXM/sweet_eea_global_images_V12.5.2.0.RKFEUXM_20210527.0000.00_11.0_eea_a30077e9d7.tgz
+  ROM_URL: https://bigota.d.miui.com/9.9.3/whyred_images_9.9.3_20190904.0000.00_9.0_cn_eb9ab691c6.tgz
