@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2120_all_4q5L63MjpxAp.ozip
+  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJLCNXM/bomb_images_V12.5.2.0.RJLCNXM_20210527.0000.00_11.0_cn_3b818cb57e.tgz
