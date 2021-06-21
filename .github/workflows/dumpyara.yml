@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.6.0.QJOIDXM/merlin_id_global_images_V12.0.6.0.QJOIDXM_20210514.0000.00_10.0_global_473c9d3f11.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.0.6.0.QJORUXM/merlin_ru_global_images_V12.0.6.0.QJORUXM_20210318.0000.00_10.0_global_b0d24cac56.tgz
