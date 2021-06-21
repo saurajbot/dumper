@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1690_all_4cslVAT4nnIJ.ozip
+  ROM_URL: https://bigota.d.miui.com/V12.0.4.0.QJPINXM/gram_in_global_images_V12.0.4.0.QJPINXM_20210514.0000.00_10.0_in_cbf3578c8b.tgz
