@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJLCNXM/bomb_images_V12.5.2.0.RJLCNXM_20210527.0000.00_11.0_cn_3b818cb57e.tgz
+  ROM_URL: google.com
