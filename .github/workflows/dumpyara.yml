@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://mega.nz/file/HyBiiL6L#G-5MTNkIkUihHX6p9LikILsXMkbUwYkn0s16QYRlBKU
+  ROM_URL: https://ghost-mirror-main.hitesh920.workers.dev/0://lineage-18.1-20210621-UNOFFICIAL-RMX1821.zip
