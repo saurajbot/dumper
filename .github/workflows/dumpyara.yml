@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.4.0.RCUMIXM/miui_BILOBAGlobal_V12.5.4.0.RCUMIXM_52f6574211_11.0.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/06/17/4fab98b6-6964-4c1d-9c5c-dcd92064ae14.ozip
