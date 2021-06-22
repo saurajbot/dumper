@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: test
+  ROM_URL: testh
