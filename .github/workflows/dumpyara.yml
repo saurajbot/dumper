@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: miui.com
+  ROM_URL: https://mega.nz/file/HyBiiL6L#G-5MTNkIkUihHX6p9LikILsXMkbUwYkn0s16QYRlBKU
