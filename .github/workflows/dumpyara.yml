@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://prukamger.prukamger.workers.dev/0:/CipherOS-1.7-ASTRA-20210622-0508-X00P-UNOFFICIAL-VANILLA.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QCOIDXM/ginkgo_id_global_images_V12.0.2.0.QCOIDXM_20210306.0000.00_10.0_global_dadfbad2ed.tgz
