@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://ghost-mirror-main.hitesh920.workers.dev/0://lineage-18.1-20210621-UNOFFICIAL-RMX1821.zip
+  ROM_URL: http://bigota.d.miui.com/8.12.20/mido_global_images_8.12.20_20181220.0000.00_7.0_global_3947ba5143.tgz
