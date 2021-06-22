@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: testhhjhh
+  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RKHCNXM/alioth_images_V12.5.3.0.RKHCNXM_20210517.0000.00_11.0_cn_bffcc1941c.tgz
