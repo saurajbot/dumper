@@ -48,4 +48,4 @@ jobs:
               git branch
 #
 env:
-  ROM_URL: hi
+  ROM_URL: hello
