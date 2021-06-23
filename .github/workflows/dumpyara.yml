@@ -48,4 +48,4 @@ jobs:
               git branch
 #
 env:
-  ROM_URL: hii
+  ROM_URL: https://www.xiaomifirmwareupdater.com/firmware/vince/
