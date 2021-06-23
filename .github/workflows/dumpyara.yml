@@ -48,4 +48,4 @@ jobs:
               git branch
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QCOINXM/ginkgo_in_global_images_V12.0.2.0.QCOINXM_20210121.0000.00_10.0_in_03e515873b.tgz
+  ROM_URL: hiiiiii
