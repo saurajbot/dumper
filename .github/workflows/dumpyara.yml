@@ -48,4 +48,4 @@ jobs:
               git branch
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.8.0.QJOINXM/merlin_in_global_images_V12.0.8.0.QJOINXM_20210511.0000.00_10.0_in_9047d28ddf.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QJOTWXM/merlin_tw_global_images_V12.0.2.0.QJOTWXM_20201226.0000.00_10.0_global_45be7f5765.tgz
