@@ -34,11 +34,13 @@ jobs:
          run: |
               sudo bash setup.sh
 
-       - name: Setup config envs
+       - name: Setup config envs And Begin Dump
          working-directory: phoenix_firmware_dumper
          run: |
               GITHUB_ORG_NAME="boxaltdump"
-              GITLAB_ORG_NAME="boxaltdumps"
+              GITLAB_ORG_NAME="boxdumps"
+              GITLAB_USERNAME="boxaltdumps"
+              GITHUB_USERNAME="box-automation1"
               GIT_CONFIG_USERNAME="Box In A Box"
               GIT_CONFIG_EMAIL="evanferrao@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
@@ -50,6 +52,8 @@ jobs:
               echo "$GITLAB_HOSTNAME" > .gitlab_instance
               echo "$GIT_GITHUB_TOKEN" > .github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
+              echo "$GITLAB_USERNAME" > .gitlab_username
+              echo "$GITHUB_USERNAME" > .github_username
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tgtoken
               echo "$TG_CHAT_ID" > .tgchannel
@@ -58,10 +62,7 @@ jobs:
               git config --global user.email "$GIT_CONFIG_EMAIL"
               sed -i s/"DroidDumps@github.com"/"$GIT_CONFIG_EMAIL"/g dumper.sh
               sed -i s/"DroidDumps"/"$GIT_CONFIG_USERNAME"/g dumper.sh
-       - name: Running Dumpyara
-         working-directory: phoenix_firmware_dumper
-         run: |
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJUIDXM/vayu_id_global_images_V12.5.2.0.RJUIDXM_20210818.0000.00_11.0_global_2eed5a738f.tgz
+  ROM_URL: http://bigota.d.miui.com/8.12.20/miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip
