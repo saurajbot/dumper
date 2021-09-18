@@ -1,14 +1,5 @@
 name: Dump
- #
-env:
-  # Change these values if you have forked it for your own works
-  GITHUB_ORG_NAME: "boxaltdump"
-  GITLAB_ORG_NAME: "boxaltdumps"
-  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-  GITLAB_TOKEN: "${{ secrets.GITLAB_TOKEN }}"
-  TG_BOT_TOKEN: "${{ secrets.TG_BOT_TOKEN }}"
-  TG_CHAT_ID: "@boxdumps"
-  GITLAB_HOSTNAME: "https://gitgud.io"  ## use https://gitlab.com by default, or use your own github instance, or any public one
+ 
   
 on:
   push:
@@ -37,6 +28,7 @@ jobs:
                   git clone https://github.com/mirrordump/dumpyara.git
               fi
               
+              
        - name: Setup Dumpyara environment
          working-directory: dumpyara
          run: |
@@ -47,6 +39,13 @@ jobs:
        - name: Setup config envs
          working-directory: dumpyara
          run: |
+              GITHUB_ORG_NAME="boxaltdump"
+              GITLAB_ORG_NAME="boxaltdumps"
+              GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+              GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
+              TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
+              TG_CHAT_ID="@boxdumps"
+              GITLAB_HOSTNAME="https://gitgud.io"  ## use https://gitlab.com by default, or use your own github instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GITHUB_TOKEN" > .github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
