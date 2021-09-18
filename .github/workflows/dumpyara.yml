@@ -47,6 +47,7 @@ jobs:
               TG_CHAT_ID="@boxdumps"
               GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own github instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
+              echo "$GITLAB_HOSTNAME" > .gitlab_instance
               echo "$GIT_GITHUB_TOKEN" > .github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
               echo "$GITLAB_TOKEN" > .gitlab_token
