@@ -65,4 +65,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
-  ROM_URL: http://bigota.d.miui.com/8.12.20/miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip
+  ROM_URL: http://bigota.d.miui.com/8.12.20/mido_global_images_8.12.20_20181220.0000.00_7.0_global_3947ba5143.tgz
