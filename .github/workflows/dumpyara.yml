@@ -61,7 +61,7 @@ jobs:
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
               sed -i s/"DroidDumps@github.com"/"$GIT_CONFIG_EMAIL"/g dumper.sh
-              sed -i s/"DroidDumps"/"$GIT_CONFIG_USERNAME"/g dumper.sh
+              sed -i s/"user.name \"DroidDumps\""/"user.name \"$GIT_CONFIG_USERNAME\""/g dumper.sh
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
