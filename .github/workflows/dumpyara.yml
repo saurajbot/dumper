@@ -23,9 +23,9 @@ jobs:
          run: |
               if [ -f "private.txt" ]
               then
-                  git clone https://github.com/mirrordump/dumpyara.git -b private
+                  git clone --depth=1 --single-branch https://github.com/box-automation1/phoenix_firmware_dumper.git -b private
               else
-                  git clone https://github.com/mirrordump/dumpyara.git
+                  git clone --depth=1 --single-branch https://github.com/box-automation1/phoenix_firmware_dumper.git
               fi
               
               
@@ -33,8 +33,8 @@ jobs:
          working-directory: dumpyara
          run: |
               sudo bash setup.sh
-              git config --global user.name "mirrordump"
-              git config --global user.email "mirrordump@mymail.infos.st"
+              git config --global user.name "Box In A Box"
+              git config --global user.email "evanferrao@gmail.com"
 
        - name: Setup config envs
          working-directory: dumpyara
@@ -55,7 +55,7 @@ jobs:
        - name: Running Dumpyara
          working-directory: dumpyara
          run: |
-              git branch
+              sudo dumper.sh "$ROM_URL"
 #
 env:
   ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJUIDXM/vayu_id_global_images_V12.5.2.0.RJUIDXM_20210818.0000.00_11.0_global_2eed5a738f.tgz
