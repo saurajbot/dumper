@@ -55,8 +55,8 @@ jobs:
               echo "$GITLAB_USERNAME" > .gitlab_username
               echo "$GITHUB_USERNAME" > .github_username
               echo "$GITLAB_TOKEN" > .gitlab_token
-              echo "$TG_BOT_TOKEN" > .tgtoken
-              echo "$TG_CHAT_ID" > .tgchannel
+              echo "$TG_BOT_TOKEN" > .tg token
+              echo "$TG_CHAT_ID" > .tg_chat
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
@@ -65,4 +65,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/9.10.10/miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
+  ROM_URL: http://bigota.d.miui.com/9.6.27/miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip
