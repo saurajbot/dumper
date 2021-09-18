@@ -65,4 +65,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
-  ROM_URL: http://bigota.d.miui.com/8.12.20/mido_global_images_8.12.20_20181220.0000.00_7.0_global_3947ba5143.tgz
+  ROM_URL: https://bigota.d.miui.com/9.10.10/miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
