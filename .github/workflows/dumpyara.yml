@@ -1,6 +1,5 @@
 name: Dump
- 
-#
+
 on:
   push:
     paths-ignore:
