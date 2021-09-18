@@ -33,14 +33,14 @@ jobs:
          working-directory: phoenix_firmware_dumper
          run: |
               sudo bash setup.sh
-              git config --global user.name "Box In A Box"
-              git config --global user.email "evanferrao@gmail.com"
 
        - name: Setup config envs
          working-directory: phoenix_firmware_dumper
          run: |
               GITHUB_ORG_NAME="boxaltdump"
               GITLAB_ORG_NAME="boxaltdumps"
+              GIT_CONFIG_USERNAME="Box In A Box"
+              GIT_CONFIG_EMAIL="evanferrao@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
@@ -53,7 +53,10 @@ jobs:
               echo "$TG_BOT_TOKEN" > .tgtoken
               echo "$TG_CHAT_ID" > .tgchannel
               #Do Not Edit This
-              if [ "$GITLAB_HOSTNAME" != gitlab.com ]; then sed -i s/gitlab.com/"$GITLAB_HOSTNAME"/g dumper.sh ; fi
+              git config --global user.name "$GIT_CONFIG_USERNAME"
+              git config --global user.email "$GIT_CONFIG_EMAIL"
+              sed -i s/"DroidDumps@github.com"/"$GIT_CONFIG_EMAIL"/g dumper.sh
+              sed -i s/"DroidDumps"/"$GIT_CONFIG_USERNAME"/g dumper.sh
        - name: Running Dumpyara
          working-directory: phoenix_firmware_dumper
          run: |
