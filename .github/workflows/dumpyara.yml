@@ -45,13 +45,15 @@ jobs:
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
               TG_CHAT_ID="@boxdumps"
-              GITLAB_HOSTNAME="https://gitgud.io"  ## use https://gitlab.com by default, or use your own github instance, or any public one
+              GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own github instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GIT_GITHUB_TOKEN" > .github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tgtoken
-              echo "$TG_CHAT_ID" > .tgchannel 
+              echo "$TG_CHAT_ID" > .tgchannel
+              #Do Not Edit This
+              if [ "$GITLAB_HOSTNAME" != gitlab.com ]; then sed -i s/gitlab.com/"$GITLAB_HOSTNAME"/g dumper.sh ; fi
        - name: Running Dumpyara
          working-directory: phoenix_firmware_dumper
          run: |
