@@ -56,6 +56,7 @@ jobs:
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tg_token
               echo "$TG_CHAT_ID" > .tg_chat
+              echo "-1001412325330" > .tg_chat_id
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
@@ -64,4 +65,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJOCNXM/merlin_images_V12.5.2.0.RJOCNXM_20210705.0000.00_11.0_cn_a825dd7c9a.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJCCNXM/miui_LANCELOT_V12.5.1.0.RJCCNXM_574e7e2107_11.0.zip
