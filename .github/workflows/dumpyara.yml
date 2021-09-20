@@ -43,7 +43,7 @@ jobs:
          working-directory: phoenix_firmware_dumper       
          run: |
               GITHUB_ORG_NAME="dump-sauraj"
-              GITLAB_ORG_NAME="Xtreme-dump"
+              GITLAB_ORG_NAME="xtreme-dumps"
               GITLAB_USERNAME="ksauraj"
               GITHUB_USERNAME="saurajbot"
               GIT_CONFIG_USERNAME="saurajbot"
