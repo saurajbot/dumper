@@ -62,7 +62,7 @@ jobs:
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tg_token
               #echo "$TG_CHAT_ID" > .tg_chat
-              echo "-1001387925474" > .tg_chat_id
+              echo "1297553238" > .tg_chat_id
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
