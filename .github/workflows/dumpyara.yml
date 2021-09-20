@@ -51,7 +51,7 @@ jobs:
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
-              TG_CHAT_ID="@boxdumps"
+              TG_CHAT_ID="@saurajdumps"
               GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own github instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GITLAB_HOSTNAME" > .gitlab_instance
@@ -61,7 +61,7 @@ jobs:
               echo "$GITHUB_USERNAME" > .github_username
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tg_token
-              #echo "$TG_CHAT_ID" > .tg_chat
+              echo "$TG_CHAT_ID" > .tg_chat
               echo "1297553238" > .tg_chat_id
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
