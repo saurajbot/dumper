@@ -40,6 +40,7 @@ jobs:
               sudo bash setup.sh
 
        - name: Setup config envs And Begin Dump
+         working-directory: phoenix_firmware_dumper       
          run: |
               GITHUB_ORG_NAME="dump-sauraj"
               GITLAB_ORG_NAME="Xtreme-dump"
