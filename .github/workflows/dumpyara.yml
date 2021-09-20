@@ -22,9 +22,9 @@ jobs:
          run: |
               if [ -f "private.txt" ]
               then
-                  git clone --depth=1 --single-branch https://github.com/Box-boi/phoenix_firmware_dumper.git -b private
+                  git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git -b private
               else
-                  git clone --depth=1 --single-branch https://github.com/Box-boi/phoenix_firmware_dumper.git
+                  git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
               fi
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
