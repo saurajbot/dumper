@@ -28,8 +28,8 @@ jobs:
               fi
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
-              echo "$T_CID" > phoenix_firmware_dumper/.tg_chat 
-              echo "$T_MID" > phoenix_firmware_dumper/.tg_msg
+              echo "$T_CID" > phoenix_firmware_dumper/.tg_cid 
+              echo "$T_MID" > phoenix_firmware_dumper/.tg_mid
           
               
               
