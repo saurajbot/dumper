@@ -26,6 +26,12 @@ jobs:
               else
                   git clone --depth=1 --single-branch https://github.com/Box-boi/phoenix_firmware_dumper.git
               fi
+              T_CID=$(cat temp/ch_id.txt)
+              T_MID=$(cat temp/msg_id.txt)
+              echo "$T_CID" > phoenix_firmware_dumper/.tg_chat 
+              echo "$T_MID" > phoenix_firmware_dumper/.tg_msg
+          
+              
               
               
        - name: Setup Dumpyara environment
@@ -34,9 +40,8 @@ jobs:
               sudo bash setup.sh
 
        - name: Setup config envs And Begin Dump
-         working-directory: phoenix_firmware_dumper
          run: |
-              GITHUB_ORG_NAME="boxaltdump"
+              GITHUB_ORG_NAME="dump-sauraj"
               GITLAB_ORG_NAME="Xtreme-dump"
               GITLAB_USERNAME="ksauraj"
               GITHUB_USERNAME="saurajbot"
@@ -55,7 +60,7 @@ jobs:
               echo "$GITHUB_USERNAME" > .github_username
               echo "$GITLAB_TOKEN" > .gitlab_token
               echo "$TG_BOT_TOKEN" > .tg_token
-              echo "$TG_CHAT_ID" > .tg_chat
+              #echo "$TG_CHAT_ID" > .tg_chat
               echo "-1001387925474" > .tg_chat_id
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
