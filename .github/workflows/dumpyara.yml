@@ -37,11 +37,11 @@ jobs:
          working-directory: phoenix_firmware_dumper
          run: |
               GITHUB_ORG_NAME="boxaltdump"
-              GITLAB_ORG_NAME="boxdumps"
-              GITLAB_USERNAME="boxaltdumps"
-              GITHUB_USERNAME="box-automation1"
-              GIT_CONFIG_USERNAME="Box In A Box"
-              GIT_CONFIG_EMAIL="evanferrao@gmail.com"
+              GITLAB_ORG_NAME="Xtreme-dump"
+              GITLAB_USERNAME="ksauraj"
+              GITHUB_USERNAME="saurajbot"
+              GIT_CONFIG_USERNAME="saurajbot"
+              GIT_CONFIG_EMAIL="rommirrorer@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
