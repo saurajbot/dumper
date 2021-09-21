@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0://lineage-18.1-20210921-UNOFFICIAL-olivelite.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/07/27/987aed77-5aad-40d5-9a64-461096f04e85.ozip
