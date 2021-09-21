@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0490_all_sWtP8RDIvyoU.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0480_all_FWChDBv8KHOn.ozip
