@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1819/CPH1819EX_11_OTA_2250_all_IRk6gKDcKJt4.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/X5511-H3716B-M-IN-190426V160-Repairmymobile.in.zip
