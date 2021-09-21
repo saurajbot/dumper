@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0290_all_hKCRId6dsKkB.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/MiuiGlobal_12.0.2_RMX2020-11-20210806.zip
