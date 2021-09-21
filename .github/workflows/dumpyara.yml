@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/08/09/6efb1e92-549a-4a0e-81a2-247f8a8db7bf.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
