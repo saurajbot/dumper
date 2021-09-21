@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0://lineage-18.1-20210921-UNOFFICIAL-olivelite.zip
