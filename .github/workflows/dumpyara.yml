@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://nitesh696969.kushwaniteah.workers.dev/0://Havoc-OS-v4.8-20210813-RMX2020-Official-GApps.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.QCPINXM/miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
