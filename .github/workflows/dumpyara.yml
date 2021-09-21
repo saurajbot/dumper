@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/X5511-H3716B-M-IN-190426V160-Repairmymobile.in.zip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/RMX2020/PixelExperience_Plus_RMX2020-11.0-20210916-1149-UNOFFICIAL.zip
