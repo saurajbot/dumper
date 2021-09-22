@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/MiuiGlobal_12.0.2_RMX2020-11-20210806.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz
