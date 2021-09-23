@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://server.nippon.workers.dev/0://hi.zip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/RMX2020/lineage-18.1-20210921_212905-UNOFFICIAL-RMX2020.zip
