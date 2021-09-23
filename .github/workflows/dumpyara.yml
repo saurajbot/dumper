@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://download.h2os.com/OnePlus9/MP/LE2110_11_A_OTA_0090_all_c91787_10010111.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/491374RMX2151export_11_C.07_2021052614500000/RMX2151export_11_C.07_2021052614500000.ofp
