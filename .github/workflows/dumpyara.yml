@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/F1/F1EX_11_OTA_902_all_201903071442.zip
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/A33w/A33wEX_11_OTA_024_all_201903061033.zip
