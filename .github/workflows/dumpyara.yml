@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2113/CPH2113EU_11_OTA_0280_all_9qmvTcebWkcA.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/GQ3096TF2_KSS7_Ulefone_EEA_20210827_V02%EF%BC%88EU%EF%BC%89.zip
