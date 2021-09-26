@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Huawei%20Y6P%20MED-LX9N%2010.1.0.107.rar
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/HLRCF%20Merida-L49C%2010.1.0.165%28C432E4R3P1%29_Firmware_EMUI10.1.0_05016RXJ.zip
