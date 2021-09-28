@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://oxygenos.oneplus.net/LE2111_11_C_OTA_1090_all_56bd47_00011011.zip
+  ROM_URL: https://oxygenos.oneplus.net/LE2115_11_C_OTA_1090_all_f1ed2c_10100001.zip
