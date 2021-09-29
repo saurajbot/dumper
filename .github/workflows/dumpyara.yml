@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/RMX1801/20210929/lineage-17.1-20210929-nightly-RMX1801-signed.zip
+  ROM_URL: https://ota-manual-eu.allawnofs.com/ota/21/08/10/a72b1fd4-1c65-4d1e-a1a7-c856709290cf.ozip
