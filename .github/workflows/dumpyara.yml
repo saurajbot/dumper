@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://otafsg-cost.realmemobile.com/RMX2185EEA/RMX2185EU_11.A.62_0620_202104192216/patch/amazone2/GLO/RMX2185EU/RMX2185EU_11.A.62_0620_202104192216/RMX2185EU_11_OTA_0620_all_d7zN8Ou1DPpO_b73e.ozip
+  ROM_URL: https://ota-manual-eu.allawnofs.com/ota/21/06/18/8d162d83-2001-435a-b85a-b39ddccdd04c.ozip
