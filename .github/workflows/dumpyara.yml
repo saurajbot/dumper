@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ota-manual-eu.allawnofs.com/ota/21/06/18/8d162d83-2001-435a-b85a-b39ddccdd04c.ozip
+  ROM_URL: https://ota-manual-sg.allawnofs.com/ota/21/08/10/8bf2f717-7b96-4b89-b7f7-7565fbf4c362.ozip
