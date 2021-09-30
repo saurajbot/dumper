@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2001_11_OTA_11000270_all_10K1NyQNkRyP.ozip
+  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJOMIXM/merlin_global_images_V12.5.1.0.RJOMIXM_20210728.0000.00_11.0_global_153a700b3b.tgz
