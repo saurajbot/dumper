@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/08/19/6a4adf61-bce2-4593-85b2-265d7314cd74.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2001_11_OTA_11000270_all_10K1NyQNkRyP.ozip
