@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RCOCNXM/ginkgo_images_V12.5.1.0.RCOCNXM_20210804.0000.00_11.0_cn_928cd0eb16.tgz
+  ROM_URL: https://fileload.coloros.com/30670CPH2179PU_11_A.15_201126_ccde2891.zip
