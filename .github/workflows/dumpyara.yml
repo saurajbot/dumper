@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.I.25_OTA_0250_all_2106020024_bec4a5df451c4d31.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CPH2269export_11_A.05_2021082619440000_GsmMafia.Com.zip
