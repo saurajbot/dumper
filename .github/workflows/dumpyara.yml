@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/eliassexo.zip
+  ROM_URL: https://nitesh696969.kushwaniteah.workers.dev/0://Vsmart_Joy_4_Qual_3.0_OTA_%28by_xdafirmware.com%29.zip
