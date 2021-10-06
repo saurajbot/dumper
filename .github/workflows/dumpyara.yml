@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/PixelPlusUI_3.8_RMX2151-11.0-20210815-0644-OFFICIAL.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-ota-rq3a.211001.001-6bfcac48.zip
