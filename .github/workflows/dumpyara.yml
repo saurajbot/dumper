@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirror.akhilnarang.dev/AOSP/raphael/S/aosp_raphael-ota-eng.abhishek.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/PixelPlusUI_3.8_RMX2151-11.0-20210815-0644-OFFICIAL.zip
