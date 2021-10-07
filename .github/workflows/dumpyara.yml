@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2151PU_11_A.83_210128_de1bf5f9_GsmMafia.Com/RMX2151PU_11_A.83_210128_de1bf5f9/RMX2151PU_11_A.83_210128_de1bf5f9.ofp
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-2.0-KNIGHT-RMX2185-UNOFFICIAL-1620-07102021.zip
