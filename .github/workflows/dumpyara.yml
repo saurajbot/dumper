@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/xd_rev1.6.5.redwhite.STBL-lavender-20211007-0740.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Cherish-OS-v2.9-20210911-1027-sakura-OFFICIAL-Vanilla.zip
