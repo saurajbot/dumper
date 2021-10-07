@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0870_all_bcaVDKpnb64B.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/FusionOS-2.0-12-RMX2020-ota-20211007-eng.zip
