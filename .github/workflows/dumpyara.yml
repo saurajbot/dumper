@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aosp_sweet-ota-eng.adarsh-GMS.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/501838RMX2156export_11_C.10_2021061805060000/RMX2156export_11_C.10_2021061805060000/RMX2156export_11_C.10_2021061805060000.ofp
