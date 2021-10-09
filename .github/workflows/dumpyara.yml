@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://index.thetablaster.workers.dev/0:/potato_RMX1851-12-20211009-f.v5.0.0+1.Community.zip
+  ROM_URL: https://sauraj.rommirrorer.workers.dev/0:/ppui/RMX1801/PixelPlusUI_3.10_RMX1801-11.0-20211008-1548-OFFICIAL.zip
