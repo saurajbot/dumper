@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/AOSP-12-RMX2020-ota-20211009-eng.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/503020RMX3195export_11_A.12_2021082602280000/RMX3195export_11_A.12_2021082602280000/RMX3195export_11_A.12_2021082602280000.ofp
