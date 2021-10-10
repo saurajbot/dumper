@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://sourceforge.net/projects/cipheros/files/KNIGHT/BETA/CipherOS-2.0-KNIGHT-20211010-1418-BETA-UNOFFICIAL-VANILLA.zip/download
+  ROM_URL: https://sourceforge.net/projects/cipheros/files/KNIGHT/BETA/CipherOS-2.0-KNIGHT-20211010-1418-BETA-OFFICIAL-VANILLA.zip/download
