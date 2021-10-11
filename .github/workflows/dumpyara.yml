@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aosp_RMX2001-ota-104.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJPINXM/miui_GRAMINGlobal_V12.0.1.0.RJPINXM_df24883f3b_11.0.zip
