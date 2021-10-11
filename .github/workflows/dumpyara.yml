@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Fluid-2.0-Soda-UNOFFICIAL-RMX2020-20211011.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aosp_RMX2001-ota-104.zip
