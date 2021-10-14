@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/1a1b304fe321cf063e6f64d7dc26d46d72fd31a7.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-18.1-plus-20210902_050113-UNOFFICIAL-4f2b319-RMX2001.zip
