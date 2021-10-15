@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://nitesh696969.kushwaniteah.workers.dev/0://lineage-18.1-20211015_025532-UNOFFICIAL-RMX1941.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Fluid-2.0-Soda-UNOFFICIAL-RMX2020-20211010.zip
