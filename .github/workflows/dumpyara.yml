@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://componentota-manual-sg.allawnofs.com/component-ota/21/09/12/4aeef3cb0ea244dd94e34c116c94c0dd.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/java/official/RETEU/XT2128-2_JAVA_RETEU_P352CE_PVT_11.0_64B_CFC_26-7.00-00_FLASHER_sign_20210319190448.zip
