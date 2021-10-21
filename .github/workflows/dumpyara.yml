@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/MicrosoftCorporationII.WindowsSubsystemForAndroid_1.7.32815.0_neutral_~_8wekyb3d8bbwe.Msixbundle
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2179/CPH2179PU_11_OTA_0170_all_yVd4f8UhMPz1.ozip
