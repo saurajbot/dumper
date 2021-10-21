@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-16.0-20191017-UNOFFICIAL-treble_arm_avN.img.xz
+  ROM_URL: https://index.rehanalt501.workers.dev/0:/Mirrorbot/503732RMX3031export_11_A.19_2021092510130117/RMX3031export_11_A.19_2021092510130117/RMX3031export_11_A.19_2021092510130117.ofp
