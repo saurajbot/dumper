@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.QCPINXM/miui_OLIVELITEINGlobal_V12.5.2.0.QCPINXM_d2322fb180_10.0.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/MicrosoftCorporationII.WindowsSubsystemForAndroid_1.7.32815.0_neutral_~_8wekyb3d8bbwe.Msixbundle
