@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2179/CPH2179PU_11_OTA_0210_all_6LDsHsSzX62H.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-16.0-20191017-UNOFFICIAL-treble_arm_avN.img.xz
