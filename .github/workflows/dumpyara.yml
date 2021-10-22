@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/503637RMX2085export_11_C.09_2021091512000000.zip
+  ROM_URL: http://otafsg-cost.realmemobile.com/RMX1941/RMX1941EX_11.A.34_0340_202105081158/patch/amazone2/GLO/RMX1941EX/RMX1941EX_11.A.34_0340_202105081158/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn_73ddd.ozip
