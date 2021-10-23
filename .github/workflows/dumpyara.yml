@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/SM-G960F_XME_G960FXXUGFUH3_fac.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Cos12.zip
