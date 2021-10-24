@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/styxOS-1.7-Athena-RMX1941-UNOFFICIAL-20210806-0458.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/10orG_OreoFeb2019_V1.0_82_Stock.zip
