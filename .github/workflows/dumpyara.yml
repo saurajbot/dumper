@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Micromax_Q345_MT6582_V2_040815.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/GQ5002AH1_KSA200_Ulefone_20210909_V01%28Non-EU%29.zip
