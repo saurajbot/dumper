@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus6Oxygen_22.J.61_OTA_0610_all_2109171645_2def395726e744f4.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Micromax_Q345_MT6582_V2_040815.zip
