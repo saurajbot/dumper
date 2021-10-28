@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/realme-c2/ColorOS/Ozip/RealmeC2A33.ozip?ts=gAAAAABhejW71bEPtnwliOIW0FYECZ80Ua3O0b5M7Yk7e8nzg0WLXJaNdiYV8PysNZ85ugJo0h6Ls1Pq550DxuyRWgDXGduaBA%3D%3D
+  ROM_URL: https://dl.google.com/dl/android/aosp/fugu-ota-mob30d-6aee10f9.zip
