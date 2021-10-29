@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/502388RMX2151export_11_C.09_2021070809230080.zip
