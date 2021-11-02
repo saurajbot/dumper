@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sp1a.211105.002-factory-931626da.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0100_all_6Tw0LV9IfSI3.ozip
