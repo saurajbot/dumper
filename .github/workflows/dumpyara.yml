@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/503890RMX2156export_11_C.14_2021092411090120/RMX2156export_11_C.14_2021092411090120/RMX2156export_11_C.14_2021092411090120.ofp
+  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJWINXM/miui_CURTANAINGlobal_V12.5.1.0.RJWINXM_70a4ff19d8_11.0.zip
