@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0710_all_i3cdf6V7tk6F.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-18.1-20211102_143720-UNOFFICIAL-e850e80-RMX2001.zip
