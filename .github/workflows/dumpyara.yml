@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-18.1-20211102_153511-UNOFFICIAL-RMX2020.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/504039RMX2156export_11_C.15_2021101804470240/RMX2156export_11_C.15_2021101804470240/RMX2156export_11_C.15_2021101804470240.ofp
