@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2121PU_11_OTA_0140_all_W2GUPNtO9E6H.ozip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/olives/CipherOS-2.0-KNIGHT-cipher_olives-20211108-1045-BETA-UNOFFICIAL-VANILLA.zip
