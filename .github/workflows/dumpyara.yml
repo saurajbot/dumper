@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/21.11.8/miui_ARES_21.11.8_4d9eff787b_12.0.zip
+  ROM_URL: https://mirror.jughead.workers.dev/0:/SM-T561_1_20170926205314_8xc7v4w1yu.zip
