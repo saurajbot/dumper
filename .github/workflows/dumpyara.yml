@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://otaafsg-cost.realmemobile.com/RMX2040/RMX2040_11.C.03_10300270_202105081717/patch/amazone2/GLO/RMX2040/RMX2040_11.C.03_10300270_202105081717/RMX2040_11_OTA_10300270_all_BCnbk5HHfYIA_6479dd39ed.ozip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/E/lineage-18.1-20211112-UNOFFICIAL-E.zip
