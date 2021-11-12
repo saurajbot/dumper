@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/E/lineage-18.1-20211112-UNOFFICIAL-E.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Micromax_IN_2B_E7544_SW_V11_HW_V2.0_210630_SPD.zip
