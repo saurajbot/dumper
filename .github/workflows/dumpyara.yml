@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  ROM_URL: https://fileload.coloros.com/503520RMX3191export_11_A.22_2021090901110245.zip
