@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/r2p/PixelExperience_Plus_r2p-11.0-20211130-2328-UNOFFICIAL.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aospa-sapphire-1-oneplus8-alpha-20211128-image.zip
