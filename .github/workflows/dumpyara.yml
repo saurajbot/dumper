@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aospa-sapphire-1-oneplus8-alpha-20211128-image.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/08/09/6efb1e92-549a-4a0e-81a2-247f8a8db7bf.ozip
