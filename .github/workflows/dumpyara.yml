@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/08/09/6efb1e92-549a-4a0e-81a2-247f8a8db7bf.ozip
+  ROM_URL: https://mirror.jughead.workers.dev/0:/PixelExperience_Plus_r2p-11.0-20211202-0933-OFFICIAL.zip
