@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/30813RMX1801EX_11_F.12_201016_73cccea3.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/503928RMX3370export_11_A.05_2021101112390113.zip
