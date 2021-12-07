@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sq1a.211205.008-factory-d82cc3cc.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/3c7c5d56651f43a14a78b8254200eba6b61b33f2.zip
