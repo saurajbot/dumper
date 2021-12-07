@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/3c7c5d56651f43a14a78b8254200eba6b61b33f2.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Motorola_Moto_G50_XT2137-1_IBIZA_RETEU_11_RRFS31.Q1-59-76-2_Subsidy_11.zip
