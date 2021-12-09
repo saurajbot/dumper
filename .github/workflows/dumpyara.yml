@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/62fa91c2c16c2ce37bbf2ffb4352478434199392.zip
+  ROM_URL: https://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/OnePlus6TOxygen_41.Y.78_OTA_0780_all_2108052357_f629ef93.zip
