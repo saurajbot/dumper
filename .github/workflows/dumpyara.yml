@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/OnePlus6TOxygen_41.Y.78_OTA_0780_all_2108052357_f629ef93.zip
+  ROM_URL: https://popodrive.lindu788.workers.dev/0:/GdriveXbot/RevengeOS-4.1-R-OFFICIAL-ulova-20211116-0948.zip
