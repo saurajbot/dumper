@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://downloads.hydra-7.workers.dev/0:/Stock/XQ-BQ52_EEA_61.0.A.11.121.rar
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/ba6e3da054c94a399c8bac3671529ba2.zip
