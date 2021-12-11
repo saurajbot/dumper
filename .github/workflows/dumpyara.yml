@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-c201ce629be962cdb2016c80b12a4bfa/component-ota/21/11/25/ba6e3da054c94a399c8bac3671529ba2.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/FusionOS-3.0-Aqua-RMX1831-12100910-OFFICIAL.zip
