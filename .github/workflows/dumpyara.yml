@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX3235-user-native_SHARKL3_R11.pac
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/488428CP549814_realme_MT6886_null_94386373_PN_Sceptre_4K_ATV_Realme_PID_model_55FX_QD_GSB_6977078_20201116.zip
