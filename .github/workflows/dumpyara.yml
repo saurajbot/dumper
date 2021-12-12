@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.38_GLO_1380_2112010418/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.38_GLO_1380_2112010418/OnePlus9ProOxygen_22.E.38_OTA_1380_all_2112010418_3d3940.zip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/o5prolte/lineage-17.1-20211212-UNOFFICIAL-o5prolte.zip
