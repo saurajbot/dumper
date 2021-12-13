@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fota2.asus.com/delta_package/phone/WW_I006D/formal/WW_user_30.12.112.62-user-WW_I006D-WW_user_31.1004.0404.55-user-WW_I006D-20211203_nr/WW_user_30.12.112.62-user-WW_I006D-WW_user_31.1004.0404.55-user-WW_I006D-20211203_nr.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/WW_user_30.12.112.62-user-WW_I006D-WW_user_31.1004.0404.55-user-WW_I006D-20211203_nr.zip
