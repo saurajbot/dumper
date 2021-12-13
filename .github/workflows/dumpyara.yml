@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/504238RMX3381export_11_A.07_2021112422010216.zip
+  ROM_URL: https://fota2.asus.com/delta_package/phone/WW_I006D/formal/WW_user_30.12.112.62-user-WW_I006D-WW_user_31.1004.0404.55-user-WW_I006D-20211203_nr/WW_user_30.12.112.62-user-WW_I006D-WW_user_31.1004.0404.55-user-WW_I006D-20211203_nr.zip
