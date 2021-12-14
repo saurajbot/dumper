@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/OnePlus6Oxygen_22_OTA_046_all_2005052115_6e039e5c69dfe0b.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sq1d.211205.016.a1-factory-f588dce8.zip
