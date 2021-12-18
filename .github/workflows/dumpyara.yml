@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6dca90b626596cb28f949785e529995c/component-ota/21/12/15/6016ebd34f1c4646b2ba5bb68c4b4cdf.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hiphic/official/RETCN/XT2201-2_HIPHIC_RETCN_12_S0SC32.16-29-5_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
