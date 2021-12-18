@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/64770dee5ab418cf2b2f0f1aede644722d7be8d4.zip
+  ROM_URL: https://downloads.thecloverly.workers.dev/0://5d41cb7d-a78d-414c-82f3-c98cdbad0088.ozip
