@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-cc96ae7022d66f895cae042231afa2f4/component-ota/21/12/06/4fe652b6c97e42d4a8db621459b40b12.zip
+  ROM_URL: https://downloads.thecloverly.workers.dev/0://CPH2089export_11_C.56_2021070918270115.ofp
