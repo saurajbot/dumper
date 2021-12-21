@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/AospExtended-v9.0-RM6785-UNOFFICIAL-20211219-1807.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/PixelExperience_RMX2185-12.0-20211221-0503-UNOFFICIAL.zip
