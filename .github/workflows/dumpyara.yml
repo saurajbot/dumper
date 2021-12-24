@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.10.0.OFIMIXM/lotus_global_images_V11.0.10.0.OFIMIXM_20210108.0000.00_8.1_global_4abc0cf1e1.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PCBCNXM/cactus_images_V12.0.2.0.PCBCNXM_20210618.0000.00_9.0_cn_50b3f7ed9e.tgz
