@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://downloads.hydra-7.workers.dev/0:/Sony_Xperia_T_LT30P_9.1.A.0.489_Europe_4.1.2.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/12/22/c1c41cf8-cd3e-451b-a9fd-8730f5f111a6.ozip
