@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://otaafsg-cost.realmemobile.com/RMX1945/RMX1941EX_11.C.53_1530_202102012004/patch/amazone2/GLO/RMX1941EX/RMX1941EX_11.C.53_1530_202102012004/RMX1941EX_11_OTA_1530_all_NFstHv8pEo4f_e8369.ozip
+  ROM_URL: https://downloads.thecloverly.workers.dev/0://ENG%2BFirmware%2BXiaomi%2BRedmi%2B4a.7z
