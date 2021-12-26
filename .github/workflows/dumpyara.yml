@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://downloads.hydra-7.workers.dev/0:/Sony_Xperia_T_LT30P_9.1.A.0.489_Europe_4.1.2.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hanoip/official/RETIN/XT2135-2_HANOIP_RETIN_11_RRI31.Q1-42-48_subsidy-DEFAULT_regulatory-XT2135-2-INDIA-FLEX_CFC.xml.zip
