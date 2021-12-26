@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hanoip/official/RETIN/XT2135-2_HANOIP_RETIN_11_RRI31.Q1-42-48_subsidy-DEFAULT_regulatory-XT2135-2-INDIA-FLEX_CFC.xml.zip
+  ROM_URL: https://bigota.d.miui.com/21.12.8/miui_ODIN_21.12.8_c5c68e08c5_12.0.zip
