@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://doc-08-8k-docs.googleusercontent.com/docs/securesc/7kc5ptdmg0l3tc3frlq0ujb2q0m8cihn/a6mvp4erd42mjdfc1f6v7fh7hr4bac2r/1640618175000/15998595717485482034/06224637857200949230/1zq359VPcVRXTx3E3KMZK23ykRipIllA1?e=download
+  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.QCMMIXM/miui_PINEGlobal_V12.5.2.0.QCMMIXM_6f51f312f8_10.0.zip
