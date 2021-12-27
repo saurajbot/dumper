@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirror.jughead.workers.dev/0:/PixelExperience_r2p-12.0-20211225-2014-CI.zip
+  ROM_URL: https://drive.arnavpuranik.workers.dev/0://Fluid-2.0-Soda-OFFICIAL-whyred-20211021.zip
