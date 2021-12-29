@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://server.nippon.workers.dev/0://miui_PHOENIXPRE_21.12.27_c7485f134f_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/21.12.27/miui_ALIOTHPRE_21.12.27_9e4dec9ebc_12.0.zip
