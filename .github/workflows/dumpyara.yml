@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/21.12.27/miui_LMIPRE_21.12.27_2162592b4f_12.0.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Arrow-v11.0-RMX2020-UNOFFICIAL-20211229-GAPPS.zip
