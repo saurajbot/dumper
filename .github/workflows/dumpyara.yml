@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Arrow-v11.0-RMX2020-UNOFFICIAL-20211229-GAPPS.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.10.0.RLDCNXM/miui_PSYCHE_V13.0.10.0.RLDCNXM_ef8a0733f5_11.0.zip
