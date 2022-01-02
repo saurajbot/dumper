@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2120_all_4q5L63MjpxAp.ozip
+  ROM_URL: http://bigota.d.miui.com/V10.2.2.0.MCEMIXM/prada_global_images_V10.2.2.0.MCEMIXM_20190508.0000.00_6.0_global_299e7070e4.tgz
