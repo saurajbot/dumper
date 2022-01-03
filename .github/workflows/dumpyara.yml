@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.2.2.0.MALMIXM/land_global_images_V10.2.2.0.MALMIXM_20190423.0000.00_6.0_global_68faa236bb.tgz
+  ROM_URL: http://charizard.thedrk.workers.dev/0:/ProjectElixir_1.2_RMX1801-12.0-20220102-0448-OFFICIAL.zip
