@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RGBMIXM/evergreen_global_images_V12.5.2.0.RGBMIXM_20211101.0000.00_11.0_global_8966777f06.tgz
