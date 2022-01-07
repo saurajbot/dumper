@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-afa251b2aff0b4fa9c6745155895ee90/component-ota/21/11/30/45846e88de2c4cdabfc06132e0d8fe87.zip
+  ROM_URL: https://fileload.coloros.com/504321RMX3381export_11_A.08_2021121523430158.zip
