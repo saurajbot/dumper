@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Arrow-v12.0-RM6785-UNOFFICIAL-20220106-VANILLA.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/504291RMX3195export_11_A.17_2021121719460000/RMX3195export_11_A.17_2021121719460000.ofp
