@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2121export_11_C.03_2021070302020000_GsmMafia.Com.zip
+  ROM_URL: https://fileload.coloros.com/503506RMX1971_11_F.03_2021091408435844.zip
