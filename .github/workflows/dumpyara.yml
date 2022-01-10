@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/crosshatch-sp1a.210812.016.a2-factory-0de199e1.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-sq1a.220105.002-factory-1f69f8b5.zip
