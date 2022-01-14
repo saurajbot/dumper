@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.2.0.SKMCNXM/miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
+  ROM_URL: https://sauraj.rommirrorer.workers.dev/0:/sarthak/ok.zip
