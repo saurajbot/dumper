@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-2.1-SHADE-cipher_RMX2185-20220115-1258-OFFICIAL-VANILLA.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/AP_SCV31KDU1CQG1_CL11739684_QB14167039_REV02_user_low_ship_meta.tar.md5
