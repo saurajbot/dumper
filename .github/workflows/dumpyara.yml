@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1719/CPH1719EX_11_OTA_0260_all_1D0CSYxQOTJk.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-2.1-SHADE-cipher_RMX2185-20220115-1258-OFFICIAL-VANILLA.zip
