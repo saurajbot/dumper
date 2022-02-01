@@ -71,4 +71,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-2.1-SHADE-cipher_RMX2185-20220115-1258-OFFICIAL-VANILLA.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.3.0.SKHCNXM/alioth_images_V13.0.3.0.SKHCNXM_20220112.0000.00_12.0_cn_184a22bbe1.tgz
