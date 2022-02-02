@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://xiaomifirmwareupdater.com/miui/violet/stable/V12.5.4.0.QFHCNXM/
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/S5302DDMB1_S5302ODDLJ1_INS.zip
