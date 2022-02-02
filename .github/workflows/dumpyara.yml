@@ -38,6 +38,7 @@ jobs:
          working-directory: phoenix_firmware_dumper
          run: |
               sudo bash setup.sh
+              sudo bash dummy_setup.sh
 
        - name: Setup config envs And Begin Dump
          working-directory: phoenix_firmware_dumper       
@@ -63,6 +64,8 @@ jobs:
               echo "$TG_BOT_TOKEN" > .tg_token
               echo "$TG_CHAT_ID" > .tg_chat
               echo "1297553238" > .tg_chat_id
+              export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
+              export TG_API=${{ secrets.TG_BOT_TOKEN }}
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
