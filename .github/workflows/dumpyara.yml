@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%20X7%20Max/20662/RMX3031export_11_A.22_2022011105310436.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RJPINXM/miui_GRAMINGlobal_V12.5.3.0.RJPINXM_ce7a408f53_11.0.zip
