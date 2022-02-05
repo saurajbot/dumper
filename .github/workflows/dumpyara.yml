@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://development.rbinternationalnetwork.workers.dev/0:/k71v1_64_bsp/full_k71v1_64_bsp-eng-ota-mp1V91221.zip
+  ROM_URL: https://rsdsecure-cloud.motorola.com/download/HANOIP_RETAIL_RRI31.Q1-42-51-12_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip?AWSAccessKeyId=AKIAITGHGWTTC2SNWEPQ
