@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aospa-sapphire-1-X00TD-alpha-20220204.zip
+  ROM_URL: https://development.rbinternationalnetwork.workers.dev/0:/k71v1_64_bsp/full_k71v1_64_bsp-eng-ota-mp1V91221.zip
