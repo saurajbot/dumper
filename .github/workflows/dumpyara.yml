@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.6.0.QFFINXM/onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/aospa-sapphire-1-X00TD-alpha-20220204.zip
