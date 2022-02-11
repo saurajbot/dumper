@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://rsdsecure-cloud.motorola.com/download/HANOIP_RETAIL_RRI31.Q1-42-51-12_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip?AWSAccessKeyId=AKIAITGHGWTTC2SNWEPQ
+  ROM_URL: https://drive.google.com/file/d/1_-TuMCGHe-3GbvwApms9RVJx6VY1vPUo/view
