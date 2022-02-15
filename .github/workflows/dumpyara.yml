@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/501854RMX2040_11_A.47_210610_8f96ed92.zip
+  ROM_URL: google.com
