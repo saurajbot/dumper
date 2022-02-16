@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/flash/Rollbackpack/realme_C25/oplus_ota_downgrade.zip
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%209%20Pro%205G/21708/RMX3472export_11_A.29_2022012603020439.zip
