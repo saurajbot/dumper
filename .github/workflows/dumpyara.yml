@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://index.quxng.co/0:/miui_CURTANAINGlobal_V12.5.4.0.RJWINXM_6500e1be57_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.5.0.SKGMIXM/miui_MOJITOGlobal_V13.0.5.0.SKGMIXM_ed96aa8401_12.0.zip
