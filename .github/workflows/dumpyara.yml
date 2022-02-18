@@ -70,15 +70,13 @@ jobs:
               mkdir -p "$HOME"/dump
               mkdir -p "$HOME"/telegram
               sudo bash dumper.sh "$ROM_URL"
-
-       - name: Setup Dumpyara environment
-         working-directory: android_tools
-         run: |
+              cd ../android_tools
               chmod +x setup.sh
               sudo bash setup.sh
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
               ./tools/dummy_dt.sh "$HOME"/dump
+
 
 ##########
 env:
