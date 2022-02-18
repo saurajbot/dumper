@@ -74,9 +74,9 @@ jobs:
               sudo bash setup.sh
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
-              ./tools/dummy_dt.sh "$HOME"/dump
+              ./tools/dummy_dt.sh /home/runner/dmup
 
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.21.0.SLBCNXM/zeus_images_V13.0.21.0.SLBCNXM_20220115.0000.00_12.0_cn_a4580fc1ca.tgz
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/10orG_OreoFeb2019_V1.0_82_Stock.zip
