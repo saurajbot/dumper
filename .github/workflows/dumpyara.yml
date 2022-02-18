@@ -74,9 +74,9 @@ jobs:
               sudo bash setup.sh
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
-              ./tools/dummy_dt.sh /home/runner/dmup
+              sudo bash tools/dummy_dt.sh /home/runner/dump
 
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/10orG_OreoFeb2019_V1.0_82_Stock.zip
+  ROM_URL: https://downloads.thecloverly.workers.dev/0://10orG_NougatApr2017_V1.0_47_Stock.zip
