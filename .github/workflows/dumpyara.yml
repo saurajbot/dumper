@@ -20,12 +20,8 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              if [ -f "private.txt" ]
-              then
-                  git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git -b private
-              else
-                  git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
-              fi
+              git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
+              git clone --depth=1 --single-branch https://github.com/noobyysauraj/android_tools
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
               echo "$T_CID" > phoenix_firmware_dumper/.tg_cid 
@@ -71,7 +67,19 @@ jobs:
               git config --global user.email "$GIT_CONFIG_EMAIL"
               sed -i s/"DroidDumps@github.com"/"$GIT_CONFIG_EMAIL"/g dumper.sh
               sed -i s/"user.name \"DroidDumps\""/"user.name \"$GIT_CONFIG_USERNAME\""/g dumper.sh
+              mkdir -p "$HOME"/dump
+              mkdir -p "$HOME"/telegram
               sudo bash dumper.sh "$ROM_URL"
+
+       - name: Setup Dumpyara environment
+         working-directory: android_tools
+         run: |
+              chmod +x setup.sh
+              sudo bash setup.sh
+              export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
+              export TG_API=${{ secrets.TG_BOT_TOKEN }}
+              ./tools/dummy_dt.sh "$HOME"/dump
+
 ##########
 env:
   ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/OnePlus6Oxygen_22.J.62_OTA_0620_all_2111252336_14afec75dd6fa.zip
