@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-15.1-20211105-UNOFFICIAL-tiare.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hiphic/official/RETCN/XT2201-2_HIPHIC_RETCN_12_S0SC32.16-49-4_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
