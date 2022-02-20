@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/lineage-15.1-20211105-UNOFFICIAL-tiare.zip
+  ROM_URL: https://aqua.fusionos.workers.dev/0:/Downloads/FusionOS-3.0-Aqua-RMX1831-02130925-UNOFFICIAL.zip
