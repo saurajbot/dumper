@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/MadhavOS_v6.0-12-RM6785-12012022-OFFICIAL-0443.zip
+  ROM_URL: https://github.com/zeelog/OTA/releases/download/21.0/lineage-17.1-20201101-UNOFFICIAL-4.9-mido.zip
