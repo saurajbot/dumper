@@ -74,7 +74,7 @@ jobs:
               sudo bash setup.sh
               export GIT_TKN=${{ secrets.GIT_GITHUB_TKN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
-              sudo bash tools/dummy_dt.sh /home/runner/work/dumper/dumper/dumped
+              sudo ./tools/dummy_dt.sh /home/runner/work/dumper/dumper/dumped
 
 
 ##########
