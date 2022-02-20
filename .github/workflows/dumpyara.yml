@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://github.com/zeelog/OTA/releases/download/21.0/lineage-17.1-20201101-UNOFFICIAL-4.9-mido.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/taimen-ota-rp1a.201005.004.a1-9de3b962.zip
