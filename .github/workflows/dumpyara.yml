@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/taimen-ota-rp1a.201005.004.a1-9de3b962.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RJRINXM/shiva_in_global_images_V12.5.3.0.RJRINXM_20211125.0000.00_11.0_in_d834b069e8.tgz
