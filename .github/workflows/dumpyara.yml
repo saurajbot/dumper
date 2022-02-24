@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://github.com/Redmi-6A/releases/releases/download/12.0-Feb/CipherOS-2.5-LYNX-cipher_cactus-20220223-1234-UNOFFICIAL-VANILLA.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz
