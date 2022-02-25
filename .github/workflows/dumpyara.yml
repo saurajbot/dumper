@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz
+  ROM_URL: https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-12.0-20220224-1336-Official.zip/download
