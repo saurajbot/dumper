@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-12.0-20220224-1336-Official.zip/download
+  ROM_URL: https://github.com/zeelog/OTA/releases/download/55.0/lineage-19.0-20220219-UNOFFICIAL-mido.zip
