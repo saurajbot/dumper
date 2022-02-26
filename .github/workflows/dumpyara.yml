@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: rms01.realme.net/SW/realme%20service/realme%206i/19746/RMX2040export_11_C.12_2022010713580000.zip
+  ROM_URL: https://broken-sunset-4971.rehanalt501.workers.dev/0://7b9c8d61b48e43c4b4ae28e0d1f5e52b.zip
