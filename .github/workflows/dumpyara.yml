@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RJZMIXM/joyeuse_global_images_V12.5.3.0.RJZMIXM_20211223.0000.00_11.0_global_adcfb0b103.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJWINXM/curtana_in_global_images_V12.5.2.0.RJWINXM_20211112.0000.00_11.0_in_2c4698047d.tgz
