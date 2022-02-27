@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://github.com/zeelog/OTA/releases/tag/56.0
+  ROM_URL: https://github.com/zeelog/OTA/releases/download/56.0/lineage-19.0-20220227-UNOFFICIAL-mido.zip
