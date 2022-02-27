@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJWINXM/curtana_in_global_images_V12.5.2.0.RJWINXM_20211112.0000.00_11.0_in_2c4698047d.tgz
+  ROM_URL: https://github.com/zeelog/OTA/releases/tag/56.0
