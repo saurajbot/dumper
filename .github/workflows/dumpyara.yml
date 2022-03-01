@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Rev2%20-%20Redmi%209%20%28lancelot%29%20Engineering%20ROM.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/bonito-sq1a.220205.002-factory-3f67ac2f.zip
