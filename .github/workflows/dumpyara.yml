@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-rp1a.201005.004.a1-ccd1069b.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/10orE_NougatFeb2017_V1.0_82_Stock.zip
