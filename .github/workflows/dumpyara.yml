@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/bonito-sq1a.220205.002-factory-3f67ac2f.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/sojus-gwk74-factory-fe1fe884.zip
