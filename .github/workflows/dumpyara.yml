@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.10.0.RKUIDXM/miui_SELENEIDGlobal_V12.5.10.0.RKUIDXM_83c96f2262_11.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/angler-ota-opm7.181205.001-abb36a2f.zip
