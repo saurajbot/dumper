@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://drive.google.com/uc?id=19CZsla357yY4wCEuU9JBzGH9fSFGx03t
+  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-rp1a.201005.004.a1-ccd1069b.zip
