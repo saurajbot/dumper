@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/angler-ota-opm7.181205.001-abb36a2f.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/marlin-ota-qp1a.191005.007.a3-23002a57.zip
