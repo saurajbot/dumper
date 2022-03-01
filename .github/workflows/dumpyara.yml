@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/marlin-ota-qp1a.191005.007.a3-23002a57.zip
+  ROM_URL: https://drive.google.com/uc?id=19CZsla357yY4wCEuU9JBzGH9fSFGx03t
