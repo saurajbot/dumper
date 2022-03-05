@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1819/CPH1819EX_11_OTA_2270_all_UDPvGwZ2hP7v.ozip
+  ROM_URL: https://mirror.jaimirrorbot.workers.dev/0:/Mirrors//ArrowOs.zip
