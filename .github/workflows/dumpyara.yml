@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/202212914111634-6619.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sp2a.220305.012-factory-1b787a94.zip
