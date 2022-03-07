@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sp2a.220305.012-factory-1b787a94.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-sp2a.220305.012-factory-f4a9c665.zip
