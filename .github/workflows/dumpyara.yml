@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/AOSP-12-RMX2020-ota-20220308-userdebug.zip
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%201/17065P%2617066P/
