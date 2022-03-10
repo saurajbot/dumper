@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-3.0-GRAVITY-cipher_RMX2185-20220309-1619-BETA-UNOFFICIAL-VANILLA.zip
+  ROM_URL: https://dl.google.com/developers/android/sc/images/ota/coral-ota-s3b1.220218.004-4debb89a.zip
