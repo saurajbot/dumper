@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.8.0.RJQMIXM/miui_LIMEGlobal_V12.5.8.0.RJQMIXM_6ec670cbb5_11.0.zip
+  ROM_URL: https://index.hitarashi.ml/1:/lineage-18.1-20220116-UNOFFICIAL-lancelot.zip
