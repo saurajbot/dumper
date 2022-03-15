@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.8.0.QJOMIXM/merlin_global_images_V12.0.8.0.QJOMIXM_20210517.0000.00_10.0_global_8e863643dc.tgz
+  ROM_URL: https://bigota.d.miui.com/V13.0.3.0.SKHCNXM/alioth_images_V13.0.3.0.SKHCNXM_20220112.0000.00_12.0_cn_184a22bbe1.tgz
