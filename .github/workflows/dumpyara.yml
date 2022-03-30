@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/cofud/official/RETAPAC/XT2173-3_COFUD_RETAPAC_AE_11_RRWD31.Q3-26-39_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
+  ROM_URL: https://bigota.d.miui.com/22.3.29/miui_CANNONPRE_22.3.29_f31d8616d7_12.0.zip
