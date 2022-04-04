@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hanoip/official/RETIN/XT2135-2_HANOIP_RETIN_11_RRI31.Q1-42-42-3_subsidy-DEFAULT_regulatory-XT2135-2-INDIA-FLEX_CFC.xml.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-ota-sp2a.220405.003-2238ce53.zip
