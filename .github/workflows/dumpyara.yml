@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.10.0.OFIMIXM/lotus_global_images_V11.0.10.0.OFIMIXM_20210108.0000.00_8.1_global_4abc0cf1e1.tgz
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/hanoip/official/RETIN/XT2135-2_HANOIP_RETIN_11_RRI31.Q1-42-42-3_subsidy-DEFAULT_regulatory-XT2135-2-INDIA-FLEX_CFC.xml.zip
