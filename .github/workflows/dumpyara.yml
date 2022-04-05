@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-ota-sp2a.220405.003-2238ce53.zip
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZB631KL/UL-ASUS_X01BD-WW-16.2017.2011.105-user.zip
