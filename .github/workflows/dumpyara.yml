@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://oxygenos.oneplus.net/LE2101_11_C_OTA_1130_all_6a0ea2_00011011.zip
+  ROM_URL: https://bot2.atharv2951.workers.dev/0:/OPN2_DN2103_OxygenOS11.3_A.19_Stock.zip
