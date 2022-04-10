@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://sourceforge.net/projects/btlg/files/Havoc-OS-v4.15-20220410-lava-Unofficial-GApps.zip/download
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-3.2-EXODUS-cipher_RMX2020-20220410-1334-OFFICIAL-VANILLA.zip
