@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://neil.bluelightmirror.workers.dev/0:/RMP2103_11_A06_WIFI.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.1.0.SKGINXM/miui_MOJITOINGlobal_V13.0.1.0.SKGINXM_63facc4b9c_12.0.zip
