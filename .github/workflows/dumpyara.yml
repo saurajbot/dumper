@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://ghost.lelmirror.workers.dev/0/styx-2.0-beta1-RMX2020-04190329-UNOFFICIAL.zip
+  ROM_URL: https://superior-mirror.index-cloud.workers.dev/0:/styx-2.0-beta1-RMX2020-04190329-UNOFFICIAL.zip
