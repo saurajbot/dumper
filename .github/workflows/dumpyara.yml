@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Descendant-12.0-AB-12-20220125-NipponGSI.img
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
