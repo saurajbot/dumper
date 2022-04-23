@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://hugeota.d.miui.com/22.4.21/miui_CANNONPRE_22.4.21_f0dedf59f9_12.0.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.47_GLO_1470_2203102117/OnePlus9ProOxygen_22.E.47_OTA_1470_all_2203102117_c7b3172.zip
