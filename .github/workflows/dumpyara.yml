@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-672c4cf5f9b40f8075fd836e487fba1f/component-ota/22/03/26/ecb11003ee814f9484a0e4467cdaacf1.zip
+  ROM_URL: https://master.dl.sourceforge.net/project/awakenos-op6-t/enchilada/Awaken-2.6-Eclipse-enchilada-UNOFFICIAL-Gapps-1248-20220425.zip?viasf=1
