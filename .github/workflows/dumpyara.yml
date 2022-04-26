@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/redfin-tpb1.220310.029-factory-d20d59be.zip
+  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/raven-tpb1.220310.029-factory-fb7db4d2.zip
