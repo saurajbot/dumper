@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/developers/android/tm/images/ota/coral-ota-tpb1.220310.029-fcb1f613.zip
+  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/redfin-tpb1.220310.029-factory-d20d59be.zip
