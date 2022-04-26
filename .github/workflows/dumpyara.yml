@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20C25s/2167B/RMX3195export_11_A.19_2022030814420000.zip
+  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/redfin-tpb1.220310.029-factory-d20d59be.zip
