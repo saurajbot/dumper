@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://master.dl.sourceforge.net/project/awakenos-op6-t/enchilada/Awaken-2.6-Eclipse-enchilada-UNOFFICIAL-Gapps-1248-20220425.zip?viasf=1
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20C25s/2167B/RMX3195export_11_A.19_2022030814420000.zip
