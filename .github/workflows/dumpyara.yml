@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://cloud.minati.workers.dev/%5Bfirmware27%5DRMX2185_11_A.51_200626_1d40b335.zip
+  ROM_URL: https://fileload.coloros.com/28926RMX2185_11_A.71_200825_81a0eb21.zip
