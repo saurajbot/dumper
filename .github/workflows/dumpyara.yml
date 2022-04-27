@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://oxygenos.oneplus.net/system_vendor.zip
+  ROM_URL: https://rsdsecure-cloud.motorola.com/download/KYOTO_RETAIL_RRKS31.Q3-19-97-7_subsidy-DEFAULT_regulatory-XT2139-1-RETGB_CFC.xml.zip?AWSAccessKeyId=AKIAXFS6EDQSAKP4UZGY
