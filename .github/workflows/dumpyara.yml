@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0330_all_DmrSTPOL6C5q.ozip
+  ROM_URL: https://bigota.d.miui.com/V13.0.10.0.RGKEUXM/miui_SPESNEEAGlobal_V13.0.10.0.RGKEUXM_8239970ccd_11.0.zip
