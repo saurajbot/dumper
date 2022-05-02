@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://neil.bluelightmirror.workers.dev/0:/PixelExperience_Plus_RMP2102-12.1-20220501-1303-UNOFFICIAL.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sp2a.220505.002-factory-165116a1.zip
