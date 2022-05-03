@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-sp2a.220505.002-factory-165116a1.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-sp2a.220505.002-factory-7fe11c77.zip
