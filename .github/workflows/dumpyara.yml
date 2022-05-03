@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/raven-sp2a.220505.002-factory-e1266508.zip
+  ROM_URL: https://ci.android.com/builds/submitted/8530481/aosp_arm64-userdebug/latest/aosp_arm64-img-8530481.zip
