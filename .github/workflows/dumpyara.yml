@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sp2a.220505.002-factory-3238ed95.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/raven-sp2a.220505.002-factory-e1266508.zip
