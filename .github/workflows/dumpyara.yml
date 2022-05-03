@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://ci.android.com/builds/submitted/8530481/aosp_arm64-userdebug/latest/aosp_arm64-img-8530481.zip
+  ROM_URL: https://storage.googleapis.com/android-build/builds/aosp-master-linux-aosp_arm64-userdebug/8530481/3af0dad5e90b9d9b8ce90c2f754ad743dd5e31fa0686c32efe0f198368576167/aosp_arm64-img-8530481.zip?GoogleAccessId=gcs-sign@android-builds-project.google.com.iam.gserviceaccount.com
