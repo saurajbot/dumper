@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.7.0.RCZCNXM/miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/kyoto/official/RETIN/XT2139-2_KYOTO_RETIN_11_RRK31.Q3-19-97_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
