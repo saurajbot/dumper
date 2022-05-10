@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://drive.google.com/uc?id=17HGzwj0PeOGjXYW2n4FaurYWdjOU4dDj
+  ROM_URL: https://hugeota.d.miui.com/V12.5.7.0.RCZCNXM/miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
