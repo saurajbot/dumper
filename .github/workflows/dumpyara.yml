@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/kyoto/official/RETIN/XT2139-2_KYOTO_RETIN_11_RRK31.Q3-19-97_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.2.0.SLSINXM/miui_LIGHTINGlobal_V13.0.2.0.SLSINXM_5b2817b326_12.0.zip
