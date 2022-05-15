@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.2.0.SLSINXM/miui_LIGHTINGlobal_V13.0.2.0.SLSINXM_5b2817b326_12.0.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/bff629e62643555267c34b4a6a78ec50c3248228.zip
