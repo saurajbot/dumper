@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/bff629e62643555267c34b4a6a78ec50c3248228.zip
+  ROM_URL: https://github.com/zeelog/OTA/releases/download/63.0/lineage-19.1-20220516-UNOFFICIAL-mido.zip
