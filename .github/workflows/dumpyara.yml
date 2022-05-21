@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://github.com/zeelog/OTA/releases/download/63.0/lineage-19.1-20220516-UNOFFICIAL-mido.zip
+  ROM_URL: https://neil.bluelightmirror.workers.dev/0:/RMP2102_11_A07.zip
