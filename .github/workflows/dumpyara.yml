@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-eu.allawnofs.com/remove-16517ec609040b1afd592c0933f7cf3e/component-ota/22/05/24/36d96e25c69d48d998e26dd444eb6597.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/b582d98a7aee43730a6106679872b86ea2b2649d.zip
