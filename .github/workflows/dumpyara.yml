@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-7f83fb81b1c70857b0108d2d3bee5b75/component-ota/22/06/02/6d24e55bf1ab4b4b9d2e26f5d4c05739.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.6.0.RJPINXM/miui_GRAMINGlobal_V12.5.6.0.RJPINXM_00c1256586_11.0.zip
