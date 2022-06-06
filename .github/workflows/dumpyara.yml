@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-185f80766049b76ec68e5d7ca091b950/component-ota/22/05/27/6298a9751d0f4b8ebf0617dc53f1a58c.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.1.0.RFDMIXM/miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
