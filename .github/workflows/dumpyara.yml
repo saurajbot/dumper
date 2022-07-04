@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.10.0.RKDMIXM/vili_global_images_V12.5.10.0.RKDMIXM_20211211.0000.00_11.0_global_ad63f2e71d.tgz
+  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/A11/11.0.2-Certified-3/full_zirconia-ota-11.0.2%2Bb1a2332.user_signed.zip
