@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/A11/11.0.2-Certified-3/full_zirconia-ota-11.0.2%2Bb1a2332.user_signed.zip
+  ROM_URL: https://rsdsecure-cloud.motorola.com/download/DUBAI_G_S1RD32.55-67_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip?AWSAccessKeyId=AKIAXFS6EDQSAKP4UZGY
