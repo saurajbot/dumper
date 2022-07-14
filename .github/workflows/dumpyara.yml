@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/redfin-tpb4.220624.005-factory-3604f9e0.zip
+  ROM_URL: https://worst-generation.prajwals.workers.dev/0:/LA.UM.9.6.3.r1-06200-89xx.0.zip
