@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: http://fileload.minati.workers.dev/full_zirconia-ota-11.0.3+2ef5777.user_signed.zip
+  ROM_URL: http://fileload.minati.workers.dev/test.zip
