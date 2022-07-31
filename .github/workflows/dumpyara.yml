@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.4.0.SLMMIXM/miui_MUNCHGlobal_V13.0.4.0.SLMMIXM_ecb46a43b2_12.0.zip
+  ROM_URL: http://fileload.minati.workers.dev/full_zirconia-ota-11.0.3+2ef5777.user_signed.zip
