@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: http://fileload.minati.workers.dev/test.zip
+  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%208i/21690/RMX3151export_11_A.45_2022061520290145.7z
