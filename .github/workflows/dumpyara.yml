@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%20C11/206A1/RMX2185_11_A.105_220401_a30f16e5.zip
+  ROM_URL: http://fileload.minati.workers.dev/ok.zip
