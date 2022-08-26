@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: http://fileload.minati.workers.dev/ok.zip
+  ROM_URL: .dump https://bigota.d.miui.com/20.10.22/davinci_images_20.10.22_20201022.0000.00_11.0_cn_e4450bfd89.tgz
