@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://fileload.minati.workers.dev/CipherOS-4.0-CALLISTO-cipher_RMX2185-20220825-1128-BETA-OFFICIAL-VANILLA.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.8.0.SKFMIXM/miui_SWEETGlobal_V13.0.8.0.SKFMIXM_e77693a289_12.0.zip
