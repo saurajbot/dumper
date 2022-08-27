@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://fileload.minati.workers.dev/CipherOS-4.0-CALLISTO-cipher_RMX2185-20220827-0946-BETA-OFFICIAL-VANILLA.zip
+  ROM_URL: https://fileload.minati.workers.dev/CipherOS-4.0-CALLISTO-cipher_RMX2185-20220827-1030-BETA-OFFICIAL-GAPPS.zip
