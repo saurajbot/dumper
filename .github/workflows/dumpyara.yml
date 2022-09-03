@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://fileload.minati.workers.dev/CipherOS-4.0-CALLISTO-cipher_RMX2185-20220827-0946-BETA-OFFICIAL-VANILLA.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0130_all_xy5DykZQuJla.ozip
