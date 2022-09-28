@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX3612export_11_A.09_2022081701510162.zip
+  ROM_URL: https://rms01.realme.net/sw/RMX3612export_11_A.08_2022081523270137.zip
