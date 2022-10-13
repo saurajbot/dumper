@@ -76,7 +76,17 @@ jobs:
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
               sudo ./tools/dummy_dt.sh /home/runner/work/dumper/dumper/dumped
 
+       - name: Send Dump to Telegram
+         shell: bash
+         run: |
+              echo "$TOKEN" > .tg_token
+              source util.sh
+              zip -r9 Dumped.zip dumped/
+              T_CID=$(cat temp/ch_id.txt)
+              T_MID=$(cat temp/msg_id.txt)
+              tg --replyflie "$T_CID" "$T_MID" "Dumper.zip"
+
 
 ##########
 env:
-  ROM_URL: https://ghostmirror.hitesh920-index.workers.dev/0:/Decrypted_RMX3612_A.09_IN_BY_KSAURAJ.zip
+  ROM_URL: https://ghostmirror.hitesh920-index.workers.dev/0:/RMX3612GDPR_11_A.11_2022081015270136.zip
