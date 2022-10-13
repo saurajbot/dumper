@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/A11/11.0.4/full_zirconia-ota-11.0.4-75a3294.user_signed.zip
+  ROM_URL: https://ghostmirror.hitesh920-index.workers.dev/0:/Decrypted_RMX3612_A.09_IN_BY_KSAURAJ.zip
