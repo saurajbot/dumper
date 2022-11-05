@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.QCPINXM/olivelite_in_global_images_V12.5.2.0.QCPINXM_20211010.0000.00_10.0_in_2070760cb5.tgz
+  ROM_URL: https://ghostmirror.hitesh920-index.workers.dev/0:/GQ3097TH1_KSE3H_Ulefone_20220915_V01%28Non%20EU%208%2B128%29.zip
