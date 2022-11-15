@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%20C21/2074B/RMX3201export_11_C.11_2022050614020000.7z
+  ROM_URL: https://bigota.d.miui.com/V10.2.19.0.OCLINXM/tiare_in_global_images_V10.2.19.0.OCLINXM_20210207.0000.00_8.1_968af38725.tgz
