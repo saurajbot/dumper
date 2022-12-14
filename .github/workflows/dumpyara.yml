@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX3630export_11_A.22_2022110412300000.zip
+  ROM_URL: .dump_ofp https://rms01.realme.net/sw/RMX3301export_11_A.19_2022082205500000.zip QC
