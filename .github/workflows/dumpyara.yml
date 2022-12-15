@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: .dump_ofp https://rms01.realme.net/sw/RMX3301export_11_A.19_2022082205500000.zip QC
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/f23d049819ca42c0c455d1c36716cfa3bb386448.zip
