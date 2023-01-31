@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: http://mute-pine-996f.jostynv.workers.dev/0:/Samfw.com_SM-A037F_SEK_A037FXXU2CVK7_fac.zip
+  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/A12-Alpha/full_zirconia-images-12.0.0-staging%2Bd757fe8.zirconia.user_signed.zip
