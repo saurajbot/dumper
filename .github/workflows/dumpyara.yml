@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6670096d284d7f89ae08a1e7af0cdbd8/component-ota/22/12/30/373dffe4c05f4264aed5f777ba3a0307.zip
+  ROM_URL: https://fairphone-android-builds.ams3.digitaloceanspaces.com/FP3/FP3-8901.4.A.0019.2-gms-53c17a08-user-fastbootimage.zip
