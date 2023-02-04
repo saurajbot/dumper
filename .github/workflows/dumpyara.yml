@@ -89,4 +89,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: .dumprx https://gauss-componentotacostmanual-in.allawnofs.com/remove-c4ff62e9828b2f72d9d7ac8c9a8fe7d3/component-ota/23/01/10/5c16bec94edc428886a8d9a49dcf18bb.zip
+  ROM_URL: .dumprx https://free.nchc.org.tw/osdn//storage/g/x/xi/xiaomifirmwareupdater/Stable/V14/lisa/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
